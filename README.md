@@ -4,7 +4,7 @@ Password generator for the NES game Strider
 ```
 /home/sleepy9090/workspace9090/StriderPassGen/Debug/StriderPassGen 
 Level? (1..10) 1
-Bit Shift? (0..15): 0
+Shift Bit? (0..15): 0
 Key 2? (0 for no, 1 for yes): 1
 Key 3? (0 for no, 1 for yes): 1
 Key 4? (0 for no, 1 for yes): 1
