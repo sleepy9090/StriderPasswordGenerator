@@ -86,6 +86,18 @@ int main (int argc, char *argv[])
 
     string input = "";
 
+    cout << "   _________ __         .__    .___             " << endl;
+    cout << "  /   _____//  |________|__| __| _/___________  " << endl;
+    cout << "  \\_____  \\   __\\_  __ \\  |/ __ |/ __ \\_  __ \\ " << endl;
+    cout << "  /        \\|  |  |  | \\/  / /_/ \\  ___/|  | \\/ " << endl;
+    cout << " /_______  /|__|  |__|  |__\\____ |\\___  >__|    " << endl;
+    cout << "         \\/                     \\/    \\/        " << endl;
+    cout << "Strider password generator v 1.0" << endl;
+    cout << "For use with the N.E.S." << endl;
+    cout << "Coded by: sleepy9090" << endl;
+    cout << "======================================" << endl;
+    cout << endl;
+
     while (true) {
         cout << "Level? (1..10) ";
         getline(cin, input);
